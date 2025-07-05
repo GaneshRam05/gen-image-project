@@ -1,0 +1,14 @@
+backend 
+npm i express cors dotenv nodemon form-data jsonwebtoken mongoose axios bcrypt razorpay 
+
+mongodb:
+username-ganeshtest2004
+password-ganeshtest12345$
+
+mongodb-connection-url:
+mongodb+srv://ganeshtest2004:ganeshtest12345$@cluster0.cgtyh1h.mongodb.net/
+
+gmail: 
+ganeshmurugadas2004@gmail.com
+password:
+ganesh05$
